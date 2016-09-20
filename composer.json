@@ -1,5 +1,5 @@
 {
-    "name": "fadion/maneuver",
+    "name": "dustyraven/maneuver",
     "description": "Easily deploy Laravel projects via FTP or SFTP, using Git for versioning.",
     "license": "MIT",
     "keywords": ["laravel", "deployment", "git", "ftp", "ssh"],
